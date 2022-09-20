@@ -1,16 +1,86 @@
-### Hi there 👋
+## Oiee 👋, Meu nome é Gabriela Amorim!
+Hi, My name is Gabriela Amorim!
+  
 
-<!--
-**GabiAmorim-lobo/GabiAmorim-lobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/GabiAmorim-lobo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/gabriela-rodrigues-amorim" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/gabizinharamorim" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Estou feliz de te ver aqui!  
+Sou uma iniciante na área de programação e desenvolvimento Salesforce. Atualmente estou finalizando um Bootcamp de 12 semanas promovido pela SoulCode Academy.
+
+Dentre os temas abordados e aprendidos no Bootcamp estão:
+- Adm Salesforce;
+- Trigger;
+- Classe de Teste;
+- Flow Builder;
+- Apex;
+- Javascript;
+- Lightning Components;
+- e muito mais...
+  
+<br/>  
+
+
+## Fatos sobre mim:  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 Meu último emprego foi como Gerente de Rh. 
+  
+
+- 🌱 Estou há menos de 10 mil pontos para atingir Ranger no Trailhead.  
+  
+
+- ⚡ Curiosidade: Tenho 3 rins :) 
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Linguagens e Ferramentas 
+<div align="center">  
+<a href="https:www.salesforce.com" target="_blank"><img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2020/04/salesforce-logo.png" alt="Salesforce" height="25" /></a>  
+<a href="https:www.salesforce.com" target="_blank"><img style="margin: 10px" src="https://salesforce-lightning-web-components-lwc-library.valhos.com/resources/lwc.png" alt="Salesforce" height="25" /></a>   
+
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+ 
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+
+</div>  
+
+<br/>  
+
+
+## Visualizações - Github 
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
