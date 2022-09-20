@@ -74,7 +74,7 @@ Dentre os temas abordados e aprendidos no Bootcamp estão:
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=GabiAmorim-lobo&&style=flat-square)    
   
 
 <br/>  
