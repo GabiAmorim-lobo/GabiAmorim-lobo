@@ -19,13 +19,13 @@ Hi, My name is Gabriela Amorim!
 Sou uma iniciante na área de programação e desenvolvimento Salesforce. Atualmente estou finalizando um Bootcamp de 12 semanas promovido pela SoulCode Academy.
 
 Dentre os temas abordados e aprendidos no Bootcamp estão:
+- LWC;
 - Adm Salesforce;
 - Trigger;
 - Classe de Teste;
 - Flow Builder;
 - Apex;
 - Javascript;
-- Lightning Components;
 - e muito mais...
   
 <br/>  
@@ -37,7 +37,7 @@ Dentre os temas abordados e aprendidos no Bootcamp estão:
 - 🔭 Meu último emprego foi como Gerente de Rh. 
   
 
-- 🌱 Estou há menos de 10 mil pontos para atingir Ranger no Trailhead.  
+- 🌱 Já sou Ranger no Trailhead.  
   
 
 - ⚡ Curiosidade: Tenho 3 rins :) 
