@@ -32,7 +32,7 @@ Dentre os temas abordados e aprendidos no Bootcamp estão:
 
 
 ## Fatos sobre mim:  
-<table><tr><td valign="top" width="50%">
+<table><td valign="top" width="50%">
 
 - 🔭 Meu último emprego foi como Gerente de Rh. 
   
@@ -50,7 +50,7 @@ Dentre os temas abordados e aprendidos no Bootcamp estão:
 </div>  
 
 
-</td></tr></table>  
+</td></table>  
 
 <br/>  
 
